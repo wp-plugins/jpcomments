@@ -28,7 +28,7 @@ We just are.
 
 == Screenshots ==
 
-1. /tags/4.3/screenshot-1.png
+1. screenshot-1.png
 
 == Changelog ==
 
